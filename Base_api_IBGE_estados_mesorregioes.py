@@ -8,7 +8,8 @@ def dim_localidade ():
 
     df = pd.DataFrame(ret_req)
     df_dim_localidade = df[['id','sigla','nome']]
-
-    df_dim_localidade.to_csv('Dim_localidade.csv')
+    local = 'D:\Python_Projetos\Projeto_Base_de_Acidentes\Bases'
+    no_arqui = '\Dim_localidade.csv'
+    df_dim_localidade.to_csv(f'{local+no_arqui}')
     return df_dim_localidade
 
