@@ -1,0 +1,28 @@
+,id,sigla,nome
+0,11,RO,Rondônia
+1,12,AC,Acre
+2,13,AM,Amazonas
+3,14,RR,Roraima
+4,15,PA,Pará
+5,16,AP,Amapá
+6,17,TO,Tocantins
+7,21,MA,Maranhão
+8,22,PI,Piauí
+9,23,CE,Ceará
+10,24,RN,Rio Grande do Norte
+11,25,PB,Paraíba
+12,26,PE,Pernambuco
+13,27,AL,Alagoas
+14,28,SE,Sergipe
+15,29,BA,Bahia
+16,31,MG,Minas Gerais
+17,32,ES,Espírito Santo
+18,33,RJ,Rio de Janeiro
+19,35,SP,São Paulo
+20,41,PR,Paraná
+21,42,SC,Santa Catarina
+22,43,RS,Rio Grande do Sul
+23,50,MS,Mato Grosso do Sul
+24,51,MT,Mato Grosso
+25,52,GO,Goiás
+26,53,DF,Distrito Federal
